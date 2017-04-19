@@ -1,0 +1,4 @@
+miner.exe --server asia1-zcash.flypool.org --user t1NmGarahTJCj7ckyTkozHPtHLJd6vzPLb2 --pass x --port 3333
+
+nheqminer.exe -l  asia1-zcash.flypool.org:3333 -u t1NmGarahTJCj7ckyTkozHPtHLJd6vzPLb2 -p x -t 12
+
